@@ -18,7 +18,7 @@ The system uses a **Raspberry Pi Pico**, **IR sensors**, and a **7-segment LED d
 
 
 # Project Report
-[Download Report](./Microcontroller_LampPost_Report.pdf)
+[Download Report](final_report.pdf)
 
 
 
